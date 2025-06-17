@@ -1,0 +1,172 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/log/log.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/log/log.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/pool/sqlconnpool.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/pool/sqlconnpool.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/timer/heaptimer.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/timer/heaptimer.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/http/httpconn.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/http/httpconn.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/http/httprequest.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/http/httprequest.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/http/httpresponse.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/http/httpresponse.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/server/epoller.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/server/epoller.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/server/webserver.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/server/webserver.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/buffer/buffer.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/buffer/buffer.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-O2",
+      "-Wall",
+      "-g",
+      "-pthread",
+      "-o",
+      "../bin/server",
+      "../code/main.cpp"
+    ],
+    "directory": "/root/WebServer-master/build",
+    "file": "/root/WebServer-master/code/main.cpp",
+    "output": "/root/WebServer-master/bin/server"
+  }
+]
